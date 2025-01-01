@@ -1,2 +1,2 @@
-# milenajortikka-portfolio
+# jortikkam-portfolio
 Portfolio
